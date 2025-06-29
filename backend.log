@@ -1,0 +1,29 @@
+INFO:     Will watch for changes in these directories: ['/Users/xunxdd/github/ai-hedge-fund']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [71149] using WatchFiles
+INFO:     Started server process [71154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:49467 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49663 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50403 - "GET /hedge-fund/agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50402 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50403 - "GET /hedge-fund/agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50405 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50628 - "GET /hedge-fund/agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50627 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50630 - "GET /hedge-fund/agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50628 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50825 - "GET /hedge-fund/agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50824 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50827 - "GET /hedge-fund/agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50825 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "OPTIONS /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "POST /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "GET /flows/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "GET /flows/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "GET /flows/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "GET /flows/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "OPTIONS /flows/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51329 - "PUT /flows/1 HTTP/1.1" 200 OK
